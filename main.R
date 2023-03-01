@@ -82,9 +82,6 @@ s<- qu_pop  %>%
   filter(Asian == max(Asian)) %>%
   select(Name)
 
-s  
-
-
 
 
 
